@@ -1,0 +1,5 @@
+# Open docx files
+Notes/~$*
+
+# Virtual environment
+venv/
