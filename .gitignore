@@ -2,4 +2,4 @@
 Notes/~$*
 
 # Virtual environment
-venv/
+.venv/
