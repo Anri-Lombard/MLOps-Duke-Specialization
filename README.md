@@ -9,4 +9,8 @@
 
 ## Notebooks
 
-Each notebook can be opened in Colab by clicking on the Colab icon in the top right corner of the notebook, so you can run the code without installing anything locally.
+Each notebook can be opened in Colab by clicking on the Colab icon in the top right corner of the notebook, so you can run the code without installing anything local
+
+## Progress
+
+This repository is in progress...
