@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: summarize
+Version: 0.0.1
+Summary: A text summarizer using HuggingFace Transformers
+Home-page: https://github.com/alfredodeza/huggingface-summarization
+Author: Anri Lombard

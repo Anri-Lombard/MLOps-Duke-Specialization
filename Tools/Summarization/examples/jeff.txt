@@ -1,0 +1,11 @@
+If you want to be successful in business (in life, actually), you have to create more than you consume. Your goal should be to create value for everyone you interact with. Any business that doesn’t create value for those it touches, even if it appears successful on the surface, isn’t long for this world. It’s on the way out.
+
+Remember that stock prices are not about the past. They are a prediction of future cash flows discounted back to the present. The stock market anticipates. I’m going to switch gears for a moment and talk about the past. How much value did we create for shareowners in 2020? This is a relatively easy question to answer because accounting systems are set up to answer it. Our net income in 2020 was $21.3 billion. If, instead of being a publicly traded company with thousands of owners, Amazon were a sole proprietorship with a single owner, that’s how much the owner would have earned in 2020.
+
+How about employees? This is also a reasonably easy value creation question to answer because we can look at compensation expense. What is an expense for a company is income for employees. In 2020, employees earned $80 billion, plus another $11 billion to include benefits and various payroll taxes, for a total of $91 billion.
+
+How about third-party sellers? We have an internal team (the Selling Partner Services team) that works to answer that question. They estimate that, in 2020, third-party seller profits from selling on Amazon were between $25 billion and $39 billion, and to be conservative here I’ll go with $25 billion.
+
+For customers, we have to break it down into consumer customers and AWS customers.
+
+We’ll do consumers first. We offer low prices, vast selection, and fast delivery, but imagine we ignore all of that for the purpose of this estimate and value only one thing: we save customers time.
