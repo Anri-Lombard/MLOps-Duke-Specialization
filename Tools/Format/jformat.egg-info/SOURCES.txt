@@ -1,0 +1,7 @@
+setup.py
+jformat.egg-info/PKG-INFO
+jformat.egg-info/SOURCES.txt
+jformat.egg-info/dependency_links.txt
+jformat.egg-info/entry_points.txt
+jformat.egg-info/requires.txt
+jformat.egg-info/top_level.txt
